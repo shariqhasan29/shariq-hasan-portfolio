@@ -1,12 +1,12 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "வணக்கம்...",
+      "description": "👋 நான் ஷாரிக் ஹஸன் :) நான் ஒரு ஜூனியர் ஃப்ரண்ட்-எண்ட் டெவலப்பர், HTML, CSS, JS & React போன்ற ஃப்ரண்ட்-எண்ட் கருவிகளுடன் பணிபுரியக்கூடியவர் மேலும் எனக்கு Bootstrap, NodeJS, MongoDB, Git மற்றும் GitHub நன்றாக தெரியும்⭐ நன்றி . . .💜",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "எனது விவரங்கள்",
+        "projects": "ப்ரொஜெக்ட்ஸ் ",
+        "skills": "திறன்கள்",
+        "experience": "அனுபவம்"
       }
     },
     "projects": [
@@ -81,35 +81,21 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "Integrass Technical Service",
+        "title": "Intern / Junior Developer",
+        "years": "03.2023 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "React 17/18"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML",
+          "CSS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Canva",
+          "Git",
+          "GitHub"
+          
         ]
       }
     ]
