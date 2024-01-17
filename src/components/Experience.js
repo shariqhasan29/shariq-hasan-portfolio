@@ -37,7 +37,7 @@ class Experience extends Component {
               color: "#fff",
               textAlign: "center",
             }}
-            icon={<i className="fab fa-angular experience-icon"></i>}
+            icon={<i className="fab fa-react experience-icon"></i>}
             key={i}
           >
             <div style={{ textAlign: "left", marginBottom: "4px" }}>
@@ -77,6 +77,36 @@ class Experience extends Component {
           <VerticalTimeline>
             {work}
             <VerticalTimelineElement
+              className="vertical-timeline-element--work"
+              date="2018 -2021"
+              iconStyle={{
+                background: "#AE944F",
+                color: "#fff",
+                textAlign: "center",
+              }}
+              icon={<i className="fas fa-hourglass-start mx-auto experience-icon"></i>}
+              
+
+            > 
+             
+
+            <h3
+              className="vertical-timeline-element-title"
+              style={{ textAlign: "left" }}
+            >
+              Bishop Heber College
+            </h3>
+            <h4
+              className="vertical-timeline-element-subtitle"
+              style={{ textAlign: "left" }}
+            >
+              Bsc. Chemistry
+            </h4>
+
+
+            </VerticalTimelineElement>
+
+            <VerticalTimelineElement
               iconStyle={{
                 background: "#AE944F",
                 color: "#fff",
@@ -85,8 +115,10 @@ class Experience extends Component {
               icon={
                 <i className="fas fa-hourglass-start mx-auto experience-icon"></i>
               }
+
             />
           </VerticalTimeline>
+          
         </div>
       </section>
     );
