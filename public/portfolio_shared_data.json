@@ -9,6 +9,11 @@
           "class": "fab fa-github"
         },
         {
+          "name": "linkedIn",
+          "url": "https://www.linkedin.com/in/shariq-hasan-a-a92826213/",
+          "class": "fab fa-linkedin"
+        },
+        {
           "name": "instagram",
           "url": "https://www.instagram.com/shariq__hasan/?igsh=YTQwZjQ0NmI0OA%3D%3D",
           "class": "fab fa-instagram"
