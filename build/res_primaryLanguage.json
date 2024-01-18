@@ -1,19 +1,19 @@
 {
     "basic_info": {
-      "description_header": "வணக்கம்...",
-      "description": "👋 நான் ஷாரிக் ஹஸன் :) நான் ஒரு ஜூனியர் ஃப்ரண்ட்-எண்ட் டெவலப்பர்,  HTML, CSS, JS & React போன்ற  ஃப்ரண்ட்-எண்ட் கருவிகளுடன் பணிபுரியக்கூடியவர் மேலும் எனக்கு Bootstrap, NodeJS, MongoDB, Git மற்றும் GitHub போன்றவை பரிச்சயம்⭐ நன்றி 💜",
+      "description_header": "Hi",
+      "description": "👋 I'm Shariq Hasan :) I'm a junior front-end developer who can work with front-end tools like HTML, CSS, JS & React and also I am familier with Bootstrap, NodeJS, MongoDB, Git and GitHub⭐  Thank you 💜",
       "section_name": {
-        "about": "எனது விவரங்கள்",
-        "projects": "ப்ராஜெக்ட்ஸ் ",
-        "skills": "திறன்கள்",
-        "experience": "பணி அனுபவம்"
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
       }
     },
     "projects": [
       {
         "title": "Animal Shelter",
         "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
@@ -37,7 +37,7 @@
       {
         "title": "Photography",
         "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
@@ -57,7 +57,7 @@
       {
         "title": "3D Object Viewer",
         "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
@@ -98,5 +98,6 @@
           
         ]
       }
+      
     ]
   }
