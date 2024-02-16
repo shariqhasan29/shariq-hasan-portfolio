@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Shariq Hasan :) I'm a junior front-end developer who can work with front-end tools like HTML, CSS, JS & React and also I am familier with Bootstrap, NodeJS, MongoDB, Git and GitHub⭐  Thank you 💜",
+      "description": "👋 I'm Shariq Hasan :) I'm a junior front-end developer who can work with front-end tools like HTML, CSS, JS & React and also I am familier with Bootstrap, NodeJS, Express, MongoDB, Git and GitHub⭐  Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -18,7 +18,7 @@
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
         ],
-        "url": "",
+        "url": "https://shariqhasan29.github.io/Todos/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -59,6 +59,30 @@
         ]
       },
       {
+        "title": "E-com Site",
+        "startDate": "2023",
+        "description": "Personal project for study subject. Create a E-com site for product selling. Added Filter feature to this. Writing the code for filtering each product according to the client side",
+        "images": [
+          "images/portfolio/shoe/p1.jpg",
+          "images/portfolio/shoe/p2.jpg"
+        ],
+        "url": "https://shariqhasan29.github.io/shopping/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
         "title": "JustDial Website Clone",
         "startDate": "2024",
         "description": "Just created the UI of the Just Dial Website and did some Routing Pages and some functionalitist such as rating and Login page for the Study Purpose",
@@ -69,25 +93,25 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "Integrass Technical Service",
-        "title": "Intern / Junior Developer",
-        "years": "03.2023 - present",
+        "company": "KitKat Software Solutions",
+        "title": "Intern Developer",
+        "years": " July 2023 - present",
         "mainTech": [
           "React 17/18"
         ],
@@ -96,6 +120,10 @@
           "CSS",
           "JavaScript",
           "Bootstrap",
+          "NodeJS",
+          "Express",
+          "MongoDB",
+          "MySQL",
           "Canva",
           "Git",
           "GitHub"

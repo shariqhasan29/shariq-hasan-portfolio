@@ -1,8 +1,9 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
-import html5 from '@iconify/icons-logos/html-5';
-import css3 from '@iconify/icons-logos/css-3';
-import reactIcon from "@iconify/icons-logos/react";
+import mongodb from '@iconify/icons-logos/mongodb';
+import express from '@iconify/icons-logos/express';
+import react from "@iconify/icons-logos/react";
+import node from "@iconify/icons-logos/nodejs";
 
 
 class About extends Component {
@@ -32,17 +33,23 @@ class About extends Component {
                     alt="Avatar placeholder"
                   />
                   <Icon
-                    icon={html5}
-                    style={{ fontSize: "500%", margin: "9% 5% 0 5%" }}
+                    icon={mongodb}
+                    style={{ fontSize: "300%", margin: "9% 5% 0 5%" }}
+                  />
+                  
+                  <Icon
+                    icon={express}
+                    style={{ fontSize: "200%", margin: "9% 5% 0 5%" }}
+                  />
+                   <Icon
+                    icon={node}
+                    style={{ fontSize: "300%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={reactIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                    icon={react}
+                    style={{ fontSize: "300%", margin: "9% 5% 0 5%" }}
                   />
-                  <Icon
-                    icon={css3}
-                    style={{ fontSize: "500%", margin: "9% 5% 0 5%" }}
-                  />
+                 
                   
                 </span>
               </div>

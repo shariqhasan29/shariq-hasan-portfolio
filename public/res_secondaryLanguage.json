@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "வணக்கம்...",
-      "description": "👋 நான் ஷாரிக் ஹஸன் :) நான் ஒரு ஜூனியர் ஃப்ரண்ட்-எண்ட் டெவலப்பர்,  HTML, CSS, JS & React போன்ற  ஃப்ரண்ட்-எண்ட் கருவிகளுடன் பணிபுரியக்கூடியவர் மேலும் எனக்கு Bootstrap, NodeJS, MongoDB, Git மற்றும் GitHub போன்றவை பரிச்சயம்⭐ நன்றி 💜",
+      "description": "👋 நான் ஷாரிக் ஹஸன் :) நான் ஒரு ஜூனியர் ஃப்ரண்ட்-எண்ட் டெவலப்பர்,  HTML, CSS, JS & React போன்ற  ஃப்ரண்ட்-எண்ட் கருவிகளுடன் பணிபுரியக்கூடியவர் மேலும் எனக்கு Bootstrap, NodeJS, Express, MongoDB, Git மற்றும் GitHub போன்றவை பரிச்சயம்⭐ நன்றி 💜",
       "section_name": {
         "about": "எனது விவரங்கள்",
         "projects": "ப்ராஜெக்ட்ஸ் ",
@@ -11,36 +11,84 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "TODO APP",
+        "startDate": "2023",
+        "description": "It is used to create your own todo list for your activities. You can create, edit, update, mark complete and delete your task list. Usefull to followup your activities",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
         ],
-        "url": "",
+        "url": "https://shariqhasan29.github.io/Todos/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "title": "MovieDB",
+        "startDate": "2023",
+        "description": "Personal project for study subject. In App we can search movies based on the movie tittles and it will gives you the results of the movie details",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://shariqhasan29.github.io/MovieDB/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "E-com Site",
+        "startDate": "2023",
+        "description": "Personal project for study subject. Create a E-com site for product selling. Added Filter feature to this. Writing the code for filtering each product according to the client side",
+        "images": [
+          "images/portfolio/shoe/p1.jpg",
+          "images/portfolio/shoe/p2.jpg"
+        ],
+        "url": "https://shariqhasan29.github.io/shopping/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "JustDial Website Clone",
+        "startDate": "2024",
+        "description": "Just created the UI of the Just Dial Website and did some Routing Pages and some functionalitist such as rating and Login page for the Study Purpose",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -51,30 +99,10 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       }
@@ -92,6 +120,10 @@
           "CSS",
           "JavaScript",
           "Bootstrap",
+          "NodeJS",
+          "Express",
+          "MongoDB",
+          "MySQL",
           "Canva",
           "Git",
           "GitHub"
