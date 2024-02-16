@@ -1,0 +1,134 @@
+{
+    "basic_info": {
+      "description_header": "வணக்கம்...",
+      "description": "👋 நான் ஷாரிக் ஹஸன் :) நான் ஒரு ஜூனியர் ஃப்ரண்ட்-எண்ட் டெவலப்பர்,  HTML, CSS, JS & React போன்ற  ஃப்ரண்ட்-எண்ட் கருவிகளுடன் பணிபுரியக்கூடியவர் மேலும் எனக்கு Bootstrap, NodeJS, Express, MongoDB, Git மற்றும் GitHub போன்றவை பரிச்சயம்⭐ நன்றி 💜",
+      "section_name": {
+        "about": "எனது விவரங்கள்",
+        "projects": "ப்ராஜெக்ட்ஸ் ",
+        "skills": "திறன்கள்",
+        "experience": "பணி அனுபவம்"
+      }
+    },
+    "projects": [
+      {
+        "title": "TODO APP",
+        "startDate": "2023",
+        "description": "It is used to create your own todo list for your activities. You can create, edit, update, mark complete and delete your task list. Usefull to followup your activities",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "https://shariqhasan29.github.io/Todos/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "MovieDB",
+        "startDate": "2023",
+        "description": "Personal project for study subject. In App we can search movies based on the movie tittles and it will gives you the results of the movie details",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://shariqhasan29.github.io/MovieDB/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "E-com Site",
+        "startDate": "2023",
+        "description": "Personal project for study subject. Create a E-com site for product selling. Added Filter feature to this. Writing the code for filtering each product according to the client side",
+        "images": [
+          "images/portfolio/shoe/p1.jpg",
+          "images/portfolio/shoe/p2.jpg"
+        ],
+        "url": "https://shariqhasan29.github.io/shopping/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "JustDial Website Clone",
+        "startDate": "2024",
+        "description": "Just created the UI of the Just Dial Website and did some Routing Pages and some functionalitist such as rating and Login page for the Study Purpose",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Integrass Technical Service",
+        "title": "Intern / Junior Developer",
+        "years": "03.2023 - present",
+        "mainTech": [
+          "React 17/18"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap",
+          "NodeJS",
+          "Express",
+          "MongoDB",
+          "MySQL",
+          "Canva",
+          "Git",
+          "GitHub"
+          
+        ]
+      }
+    ]
+  }

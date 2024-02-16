@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shariq-hasan-portfolio/static/css/main.bb975096.css",
+    "main.js": "/shariq-hasan-portfolio/static/js/main.f799062a.js",
+    "index.html": "/shariq-hasan-portfolio/index.html",
+    "main.bb975096.css.map": "/shariq-hasan-portfolio/static/css/main.bb975096.css.map",
+    "main.f799062a.js.map": "/shariq-hasan-portfolio/static/js/main.f799062a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb975096.css",
+    "static/js/main.f799062a.js"
+  ]
+}
